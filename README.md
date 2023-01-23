@@ -1,6 +1,6 @@
 # Monet Painting Generation
 ## Authors
-Mircea Gosman: mircea.gosman@mail.mcgill.ca
+Mircea Gosman: mircea.gosman@mail.mcgill.ca <br>
 Arno Douady: arno.douady@epfl.ch
 
 ## Scope
