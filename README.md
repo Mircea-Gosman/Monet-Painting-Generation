@@ -16,18 +16,18 @@ Arno Douady:<br> arno.douady@epfl.ch</h4>
 ---
 
 ## Scope
-This project was elaborated within the scope of the class: ECSE 526: Artificial Intelligence (Fall 2022, McGill University). More details can be found in our [paper report]().
+This project was elaborated within the scope of the class: ECSE 526: Artificial Intelligence (Fall 2022, McGill University). More details can be found in our [paper report](https://github.com/Mircea-Gosman/AI_Term_Project/blob/master/Paper.pdf).
 
 ## Abstract
 <i>The goal of this project in artificial
 intelligence is to develop a Generative Adversarial
 Network (GAN) to create new paintings in the style of
-the French painter Claude Monet. In this [paper](), we
+the French painter Claude Monet. In this [paper](https://github.com/Mircea-Gosman/AI_Term_Project/blob/master/Paper.pdf), we
 describe how our DC, SN, and Cycle GANs tackle problem and
 discuss the issues we encountered.</i>
 
 ## Repository Content 
-This repository contains the [report](), samples of the best [results](https://github.com/Mircea-Gosman/AI_Term_Project/tree/master/Results) of each of our models, and the [Jupyter notebooks](https://github.com/Mircea-Gosman/AI_Term_Project/tree/master/Models) from which were produced these results.
+This repository contains the [report](https://github.com/Mircea-Gosman/AI_Term_Project/blob/master/Paper.pdf), samples of the best [results](https://github.com/Mircea-Gosman/AI_Term_Project/tree/master/Results) of each of our models, and the [Jupyter notebooks](https://github.com/Mircea-Gosman/AI_Term_Project/tree/master/Models) from which were produced these results.
 
 ## Code
 This project is not made of a single entry point. This is because generative networks require high end computational ressources (GPUs) and we could only access such ressources through the Jupyter-powered Kaggle platform. Consequently, each of our models stands as a single program in its individual Jupyter notebook. To run one a model ([e.g.](https://github.com/Mircea-Gosman/AI_Term_Project/blob/master/Models/SN-GAN.ipynb)), import as a Notebook from a new Kaggle project. Import the dataset from the [Monet Kaggle competition](https://www.kaggle.com/competitions/gan-getting-started) Then, make sure to activate accelerated hardware by selecting a GPU before running the code.
