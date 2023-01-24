@@ -23,7 +23,7 @@ This project was elaborated within the scope of the class: ECSE 526: Artificial 
 intelligence is to develop a Generative Adversarial
 Network (GAN) to create new paintings in the style of
 the French painter Claude Monet. In this [paper](https://github.com/Mircea-Gosman/AI_Term_Project/blob/master/Paper.pdf), we
-describe how our DC, SN, and Cycle GANs tackle problem and
+describe how our DC, SN, and Cycle GANs tackle the problem and
 discuss the issues we encountered.</i>
 
 ## Repository Content 
